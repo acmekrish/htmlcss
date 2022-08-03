@@ -1,0 +1,35 @@
+h1{
+    position: relative;
+    left:100px;
+    top: 100px;
+    border: 2px solid crimson;
+    margin: 50px;
+    padding: 20px;
+    color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.error{
+    display: inline-block;
+    color: slategray;
+    border: 2px solid crimson;
+    margin: 50px;
+    padding: 20px;
+    line-height: 30px;
+    letter-spacing: 3px;
+    column-count: 2;
+    column-gap: 60px;
+}
+
+ul{
+    border-radius: 3ch;
+    border-width: 4px;
+    border-style: dashed;
+}
+
+li{
+    text-shadow: 2px 2px lightgrey;
+}
